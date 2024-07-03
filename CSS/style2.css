@@ -1,0 +1,23 @@
+#header {
+    text-align: center;
+}
+
+.header2 h1{
+    text-align: center;
+}
+
+.Table2 {
+    display: flex;
+    justify-content: center; 
+    width: 100%; 
+    margin: 0 auto;
+ }
+
+ .header3{
+    text-align: center;
+ }
+
+ .header3 a{
+    text-decoration: none;
+    color: black;
+ }

@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    width: 50%;
+    max-width: 600px;
+    min-width: 300px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+textarea {
+    width: 100%;
+}
